@@ -1,0 +1,49 @@
+
+
+body{
+    background-image: linear-gradient(-45deg, #2E333E, #66805D,#2E4437);
+    display: flex;
+    height: 100vh;
+}
+.um{
+    height: 100%;
+    width: 40%;
+
+   
+}
+.dois{
+    text-align: center;
+    height: 100%;
+    width: 60%;
+    color: white;
+    
+}
+h1{
+  
+    font-size: 4em;
+    color: #879192;
+    text-shadow: 5px 5px 10px #707879be;
+    
+}
+h2{
+    
+    font-size: 3em;
+    color: #879192;
+    text-shadow: 5px 5px 10px #707879be;
+}
+a{
+    color: #879192;
+    text-decoration: none;
+}
+a:visited{
+    color: #697172;
+}
+img{
+    height: 100%;
+    width: 100%;
+
+}
+a:hover{
+    text-decoration: underline;
+
+}
